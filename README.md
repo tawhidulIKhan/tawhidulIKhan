@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/">
   <img align="left" alt="Tawhid | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br />
 hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer and a freelance software engineer from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
@@ -38,7 +38,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   </thead>
   <tbody>
       <tr>
-      <td> <img src="https://codeiolab.com/wp-content/uploads/2019/11/TIPS-Web-Image.jpg" />
+      <td> <img src="https://cpworldgroup.com/wp-content/uploads/2021/01/placeholder.png" />
 	  </td>
       <td><h3>Tips By Virtunus</h3>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
@@ -47,7 +47,7 @@ numquam</p>
 </td>
 </tr>
       <tr>
-      <td> <img src="https://via.placeholder.com/450x350" />
+      <td> <img src="https://cpworldgroup.com/wp-content/uploads/2021/01/placeholder.png" />
 	  </td>
       <td><h3>Loaneo</h3>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
