@@ -1,10 +1,5 @@
 ### hey there, I turn coffee into code
-<a href="https://twitter.com/tawhiduldev">
-  <img align="left" alt="Tawhid | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/">
-  <img align="left" alt="Tawhid | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 <br />
 hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer and a freelance software engineer from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
@@ -115,6 +110,12 @@ numquam</p>
 <!--END_SECTION:waka-->
 
 
+## Social Links
 
-
+<a href="https://twitter.com/tawhiduldev">
+  <img align="left" alt="Tawhid | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/">
+  <img align="left" alt="Tawhid | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
