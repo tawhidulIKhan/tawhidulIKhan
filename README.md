@@ -1,20 +1,10 @@
 ### hey there, I turn coffee into code
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://twitter.com/tawhiduldev">
+  <img align="left" alt="Tawhid | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://www.linkedin.com/in/">
+  <img align="left" alt="Tawhid | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
 
 hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer and a freelance software engineer from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
@@ -39,35 +29,90 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GIT](https://img.shields.io/badge/-GIT-black?style=flat-square&logo=git)
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   10 hrs 52 mins  ██████████████████████▒░░   89.26 %
-JavaScript   32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-CSS          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-HTML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-```
-
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+      <tr>
+      <td> <img src="https://codeiolab.com/wp-content/uploads/2019/11/TIPS-Web-Image.jpg" />
+	  </td>
+      <td><h3>Tips By Virtunus</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam</p>
+</td>
+</tr>
+      <tr>
+      <td> <img src="https://via.placeholder.com/450x350" />
+	  </td>
+      <td><h3>Loaneo</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam</p>
+</td>
+</tr>
+      <tr>
+      <td> <img src="https://via.placeholder.com/350x250" />
+	  </td>
+      <td><h3>Tik Order Cancellation Email to Customer</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam</p>
+</td>
+</tr>
+      <tr>
+      <td> <img src="https://via.placeholder.com/350x250" />
+	  </td>
+      <td><h3>Enzaime Chat module</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam</p>
+</td>
+</tr>
+      <tr>
+      <td> <img src="https://via.placeholder.com/350x250" />
+	  </td>
+      <td><h3>LifeSpring WordPress Theme</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam</p>
+</td>
+</tr>
+      <tr>
+      <td> <img src="https://via.placeholder.com/350x250" />
+	  </td>
+      <td><h3>Stamped.io</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam</p>
+</td>
+</tr>
+      <tr>
+      <td> <img src="https://via.placeholder.com/350x250" />
+	  </td>
+      <td><h3>BD phone validation npm package</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam</p>
+</td>
+</tr>
+      <tr>
+      <td> <img src="https://codeiolab.com/wp-content/uploads/2019/11/TIPS-Web-Image.jpg" />
+	  </td>
+      <td><h3>Tips By Virtunus</h3>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
+molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
+numquam</p>
+</td>
+</tr>
+</tbody>
+</table>
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
