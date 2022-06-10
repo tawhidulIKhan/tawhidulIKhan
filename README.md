@@ -29,7 +29,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <tbody>
       <tr>
       <td>
-      <h4>Tips By Virtunus</h4>
+      <h3>Tips By Virtunus</h3>
 <p> It's single page react application with SSR feature, it is a hybrid app, backend developed with laravel, connected to web app with REST API. </p>
 <p>I used technologies in web application are <b>Next.JS</b>, <b>TypeScript</b>, Service based Frontend Architechture, <b>SCSS</b>, <b>Ant Design UI Library</b>, modular scss, and many more modern technique.
 </p>
