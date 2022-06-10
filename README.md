@@ -58,29 +58,21 @@ Technology used: <b>WooCommerce API</b>, <b>PHP</b>, <b>WordPress API</b> etc.
 </tr>
       <tr>
       <td><h3>Enzaime Chat module</h3>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-numquam</p>
+<p>I developed it along with full Enzaime web app, Technology used: Vue.JS, JavaScript, SCSS. Backend is seperate which is developed backend team with Laravel.</p>
 <a href="https://enzaime.com/symptom-checker">View</a>
 </td>
  <td><h3>LifeSpring WordPress Theme</h3>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-numquam</p>
+<p>I worked in this project for customizing theme, Tutorm LMS is used here. I customized, applied new design and overrride tutor lms templates as well as theme templates and add metaboxes and settings options on dashboard.</p>
 <a href="https://www.lifespringint.com/courses/">View</a>
 </td>
  <td><h3>Stamped.io</h3>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-numquam</p>
+<p>It is Static site, I developed it with Bootstrap UI, SCSS, JavaScript, jQuery etc.</p>
 <a href="https://stamped.io/">View</a>
 </td>
 </tr>
       <tr>
       <td><h3>BD phone validation npm package</h3>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-numquam</p>
+<p>An npm package which checks whether the given number is valid Bangladeshi contact number or not as well as retun mobile operator name as JSON response. Written in JavaScript.</p>
 <a href="https://www.npmjs.com/package/is-valid-bd-phone">View</a>
 </td>
 </tr>
