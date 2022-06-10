@@ -28,20 +28,22 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <table>
   <tbody>
       <tr>
-      <td>
+      <td style="display:flex; flex-direction: column">
       <h3>Tips By Virtunus</h3>
 <p> It's single page react application with SSR feature, it is a hybrid app, backend developed with laravel, connected to web app with REST API. </p>
 <p>I used technologies in web application are <b>Next.JS</b>, <b>TypeScript</b>, Service based Frontend Architechture, <b>SCSS</b>, <b>Ant Design UI Library</b>, modular scss, and many more modern technique.
 </p>
 <a href="https://tips.virtunus.com/" target="_blank">View</a>
 </td>
- <td><h3>Loaneo</h3>
+       <td style="display:flex; flex-direction: column">
+<h3>Loaneo</h3>
 <p> It's single page react application</p>
 <p>I used technologies in web application are <b>React.JS</b>, <b>JavaScript</b>, <b>SCSS</b>, <b>Ant Design UI Library</b>.
 </p>
 <a href="https://loaneo.co.uk/apply?productId=234&price=345">View</a>
 </td>
-      <td><h3>WooCommerce Order Cancellation Email to Customer</h3>
+            <td style="display:flex; flex-direction: column">
+<h3>WooCommerce Order Cancellation Email to Customer</h3>
 <p>Tik Order Cancellation Email to Customer is an extension of WooCommerce for sending order cancellation email to customer.</p>
 <p>
 Technology used: <b>WooCommerce API</b>, <b>PHP</b>, <b>WordPress API</b> etc.
