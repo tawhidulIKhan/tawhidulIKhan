@@ -58,7 +58,7 @@ Technology used: <b>WooCommerce API</b>, <b>PHP</b>, <b>WordPress API</b> etc.
 </tr>
       <tr>
       <td><h3>Enzaime Chat module</h3>
-<p>I developed it along with full Enzaime web app, Technology used: Vue.JS, JavaScript, SCSS. Backend is seperate which is developed backend team with Laravel.</p>
+<p>I developed it along with full Enzaime web app, Technology used: <b>Vue.JS</b>, <b>JavaScript</b>, <b>SCSS</b>. Backend is seperate which is developed backend team with Laravel.</p>
 <a href="https://enzaime.com/symptom-checker">View</a>
 </td>
  <td><h3>LifeSpring WordPress Theme</h3>
@@ -66,7 +66,7 @@ Technology used: <b>WooCommerce API</b>, <b>PHP</b>, <b>WordPress API</b> etc.
 <a href="https://www.lifespringint.com/courses/">View</a>
 </td>
  <td><h3>Stamped.io</h3>
-<p>It is Static site, I developed it with Bootstrap UI, SCSS, JavaScript, jQuery etc.</p>
+<p>It is Static site, I developed it with <b>Bootstrap UI</b>, <b>SCSS</b>, <b>JavaScript</b>, <b>jQuery</b> etc.</p>
 <a href="https://stamped.io/">View</a>
 </td>
 </tr>
