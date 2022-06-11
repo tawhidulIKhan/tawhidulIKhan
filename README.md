@@ -1,8 +1,6 @@
 ### hey there, I turn coffee into code
 
-hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer and a freelance software engineer from Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer.Experienced in JavaScript, TypeScript, PHP, React.JS, Vue.JS, WordPress, Laravel, SQL, GIT, SCSS, CSS,Database Design, Restful API, Software Architechture, AWS Amplify etc. A person who loves to code and is very passionate and adapt at learning new technologies. 
 
 <!--
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
