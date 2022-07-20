@@ -57,6 +57,25 @@ hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer.E
 </td>
 
   </tr>
+
+   <tr>
+        <td>
+      <div style="display:flex; flex-direction: column;">
+      <img src="./images/heal-admin.png" alt="Heal Admin" />
+      <h3>Heal Admin Dashboard (React)</h3>
+<p>It is heal healthcare admin dashboard, developed with React JS, Ant Design, modular service baased architechture. backend developed with Laravel, connected through REAST API.</p>
+<p>*Can not be shared live link due to privacy concern</p>
+</div>
+</td>
+        <td>
+      <div style="display:flex; flex-direction: column;">
+      <img src="./images/studilog.png" alt="Studilog" />
+      <h3>Studilog Landing Page (React)</h3>
+<p>It's app landing page developed with React JS. TypeScript, Single Page Application</p>
+</div>
+</td>
+</tr>
+
       <tr>
        <td style="display:flex; flex-direction: column">
 <div style="display:flex; flex-direction: column;">
