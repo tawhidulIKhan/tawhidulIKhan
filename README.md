@@ -28,13 +28,7 @@ hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer.E
     <tr>
       <td>
         <div style="display:flex; flex-direction: column;">
-        <div style="height: 167px;
-    background: rebeccapurple;
-    display: block;">
-          <img style="    object-fit: contain;
-    width: 100%;
-    height: 100%;" src="./images/virtunus.png" alt="Tips by Virtunus" />
-        </div>
+          <img src="./images/virtunus.png" alt="Tips by Virtunus" />
           <h3>Tips By Virtunus(Next)</h3>
           <p> It's single page react application with SSR feature, it is a hybrid app, backend developed with laravel, connected to web app with REST API. </p>
           <p>I used technologies in web application are <b>Next.JS</b>, <b>TypeScript</b>, Service based Frontend Architechture, <b>SCSS</b>, <b>Ant Design UI Library</b>, modular scss, and many more modern technique. </p>
@@ -98,6 +92,7 @@ hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer.E
         <a href="https://www.npmjs.com/package/is-valid-bd-phone">View</a>
       </td>
       <td style="display:flex; flex-direction: column">
+         <img src="./images/default.png" alt="Default" />
         <h3>WooCommerce Order Cancellation Email to Customer</h3>
         <p>Tik Order Cancellation Email to Customer is an extension of WooCommerce for sending order cancellation email to customer.</p>
         <p> Technology used: <b>WooCommerce API</b>, <b>PHP</b>, <b>WordPress API</b> etc. </p>
@@ -106,11 +101,13 @@ hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer.E
     </tr>
     <tr>      
       <td>
+         <img src="./images/default.png" alt="Default" />
         <h3>LifeSpring WordPress Theme</h3>
         <p>I worked in this project for customizing theme, Tutorm LMS is used here. I customized, applied new design and overrride tutor lms templates as well as theme templates and add metaboxes and settings options on dashboard.</p>
         <a href="https://www.lifespringint.com/courses/">View</a>
       </td>
       <td>
+         <img src="./images/default.png" alt="Default" />
         <h3>Stamped.io</h3>
         <p>It is Static site, I developed it with <b>Bootstrap UI</b>, <b>SCSS</b>, <b>JavaScript</b>, <b>jQuery</b> etc. </p>
         <a href="https://stamped.io/">View</a>
