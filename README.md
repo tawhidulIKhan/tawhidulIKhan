@@ -25,105 +25,96 @@ hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer.E
 
 <table>
   <tbody>
-  <tr>
-        <td>
-      <div style="display:flex; flex-direction: column;">
-      <img src="./images/virtunus.png" alt="Tips by Virtunus" />
-      <h3>Tips By Virtunus(Next)</h3>
-<p> It's single page react application with SSR feature, it is a hybrid app, backend developed with laravel, connected to web app with REST API. </p>
-<p>I used technologies in web application are <b>Next.JS</b>, <b>TypeScript</b>, Service based Frontend Architechture, <b>SCSS</b>, <b>Ant Design UI Library</b>, modular scss, and many more modern technique.
-</p>
-<a href="https://tips.virtunus.com/" target="_blank">View</a>
-</div>
-</td>
- <td>
-      <div style="display:flex; flex-direction: column;">
-      <img src="./images/auth.png" alt="Auth" />
-      <h3>Virtunus Auth Account App(React)</h3>
-<p> This is user account app which is connected with many other applications like, built with React JS, TypeScript, Redux etc.
-</p>
-<a href="https://accounts.virtunus.com/" target="_blank">View</a>
-</div>
-</td>
-
- <td>
-      <div style="display:flex; flex-direction: column;">
-      <img src="./images/heal.png" alt="Heal" />
-      <h3>Heal Single Page App (React)</h3>
-<p> This is user account app which is connected with many other applications like, built with React JS, TypeScript, Redux etc.
-</p>
-<a href="https://www.heal.xyz/" target="_blank">View</a>
-</div>
-</td>
-
-  </tr>
-
-   <tr>
-        <td>
-      <div style="display:flex; flex-direction: column;">
-      <img src="./images/heal-admin.png" alt="Heal Admin" />
-      <h3>Heal Admin Dashboard (React)</h3>
-<p>It is heal healthcare admin dashboard, developed with React JS, Ant Design, modular service baased architechture. backend developed with Laravel, connected through REAST API.</p>
-<p>*Can not be shared live link due to privacy concern</p>
-</div>
-</td>
-        <td>
-      <div style="display:flex; flex-direction: column;">
-      <img src="./images/studilog.png" alt="Studilog" />
-      <h3>Studilog Landing Page (React)</h3>
-<p>It's app landing page developed with React JS. TypeScript, Single Page Application</p>
-</div>
-</td>
-</tr>
-
-      <tr>
+    <tr>
+      <td>
+        <div style="display:flex; flex-direction: column;">
+          <img src="./images/virtunus.png" alt="Tips by Virtunus" />
+          <h3>Tips By Virtunus(Next)</h3>
+          <p> It's single page react application with SSR feature, it is a hybrid app, backend developed with laravel, connected to web app with REST API. </p>
+          <p>I used technologies in web application are <b>Next.JS</b>, <b>TypeScript</b>, Service based Frontend Architechture, <b>SCSS</b>, <b>Ant Design UI Library</b>, modular scss, and many more modern technique. </p>
+          <a href="https://tips.virtunus.com/" target="_blank">View</a>
+        </div>
+      </td>
+      <td>
+        <div style="display:flex; flex-direction: column;">
+          <img src="./images/auth.png" alt="Auth" />
+          <h3>Virtunus Auth Account App(React)</h3>
+          <p> This is user account app which is connected with many other applications like, built with React JS, TypeScript, Redux etc. </p>
+          <a href="https://accounts.virtunus.com/" target="_blank">View</a>
+        </div>
+      </td>
+      <td>
+        <div style="display:flex; flex-direction: column;">
+          <img src="./images/heal.png" alt="Heal" />
+          <h3>Heal Single Page App (React)</h3>
+          <p> This is user account app which is connected with many other applications like, built with React JS, TypeScript, Redux etc. </p>
+          <a href="https://www.heal.xyz/" target="_blank">View</a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div style="display:flex; flex-direction: column;">
+          <img src="./images/heal-admin.png" alt="Heal Admin" />
+          <h3>Heal Admin Dashboard (React)</h3>
+          <p>It is heal healthcare admin dashboard, developed with React JS, Ant Design, modular service baased architechture. backend developed with Laravel, connected through REAST API.</p>
+          <p>*Can not be shared live link due to privacy concern</p>
+        </div>
+      </td>
+      <td>
+        <div style="display:flex; flex-direction: column;">
+          <img src="./images/studilog.png" alt="Studilog" />
+          <h3>Studilog Landing Page (React)</h3>
+          <p>It's app landing page developed with React JS. TypeScript, Single Page Application</p>
+        </div>
+      </td>
        <td style="display:flex; flex-direction: column">
-<div style="display:flex; flex-direction: column;">
-      <h3>Loaneo (React)</h3>
-      <img src="./images/loaneo.png" alt="Loaneo" />
-<p> It's single page react application</p>
-<p>I used technologies in web application are <b>React.JS</b>, <b>JavaScript</b>, <b>SCSS</b>, <b>Ant Design UI Library</b>.
-</p>
-<a href="https://loaneo.co.uk/apply?productId=234&price=345">View</a>
-</div>
-</td>
-            <td style="display:flex; flex-direction: column">
-<h3>WooCommerce Order Cancellation Email to Customer</h3>
-<p>Tik Order Cancellation Email to Customer is an extension of WooCommerce for sending order cancellation email to customer.</p>
-<p>
-Technology used: <b>WooCommerce API</b>, <b>PHP</b>, <b>WordPress API</b> etc.
-</p>
-<a href="https://wordpress.org/plugins/tik-order-cancellation-email-to-customer/">View</a>
-</td>
-
-</tr>
-      <tr>
-      <td><h3>Enzaime Chat module</h3>
-<p>I developed it along with full Enzaime web app, Technology used: <b>Vue.JS</b>, <b>JavaScript</b>, <b>SCSS</b>. Backend is seperate which is developed backend team with Laravel.</p>
-<a href="https://enzaime.com/symptom-checker">View</a>
-</td>
- <td><h3>LifeSpring WordPress Theme</h3>
-<p>I worked in this project for customizing theme, Tutorm LMS is used here. I customized, applied new design and overrride tutor lms templates as well as theme templates and add metaboxes and settings options on dashboard.</p>
-<a href="https://www.lifespringint.com/courses/">View</a>
-</td>
- <td><h3>Stamped.io</h3>
-<p>It is Static site, I developed it with <b>Bootstrap UI</b>, <b>SCSS</b>, <b>JavaScript</b>, <b>jQuery</b> etc.</p>
-<a href="https://stamped.io/">View</a>
-</td>
-</tr>
-      <tr>
-      <td><h3>BD phone validation npm package</h3>
-<p>An npm package which checks whether the given number is valid Bangladeshi contact number or not as well as retun mobile operator name as JSON response. Written in JavaScript.</p>
-<a href="https://www.npmjs.com/package/is-valid-bd-phone">View</a>
-</td>
-</tr>
-</tbody>
+        <div style="display:flex; flex-direction: column;">
+          <img src="./images/loaneo.png" alt="Loaneo" />
+          <h3>Loaneo (React)</h3>
+          <p> It's single page react application</p>
+          <p>I used technologies in web application are <b>React.JS</b>, <b>JavaScript</b>, <b>SCSS</b>, <b>Ant Design UI Library</b>. </p>
+          <a href="https://loaneo.co.uk/apply?productId=234&price=345">View</a>
+        </div>
+      </td>
+    </tr>
+    <tr>   
+    <td>
+          <img src="./images/enzaime.png" alt="Enzaime" />
+        <h3>Enzaime Chat module</h3>
+        <p>I developed it along with full Enzaime web app, Technology used: <b>Vue.JS</b>, <b>JavaScript</b>, <b>SCSS</b>. Backend is seperate which is developed backend team with Laravel. </p>
+        <a href="https://enzaime.com/symptom-checker">View</a>
+      </td>  
+      <td>
+        <h3>BD phone validation npm package</h3>
+        <p>An npm package which checks whether the given number is valid Bangladeshi contact number or not as well as retun mobile operator name as JSON response. Written in JavaScript.</p>
+        <a href="https://www.npmjs.com/package/is-valid-bd-phone">View</a>
+      </td>
+      <td style="display:flex; flex-direction: column">
+        <h3>WooCommerce Order Cancellation Email to Customer</h3>
+        <p>Tik Order Cancellation Email to Customer is an extension of WooCommerce for sending order cancellation email to customer.</p>
+        <p> Technology used: <b>WooCommerce API</b>, <b>PHP</b>, <b>WordPress API</b> etc. </p>
+        <a href="https://wordpress.org/plugins/tik-order-cancellation-email-to-customer/">View</a>
+      </td>
+    </tr>
+    <tr>      
+      <td>
+        <h3>LifeSpring WordPress Theme</h3>
+        <p>I worked in this project for customizing theme, Tutorm LMS is used here. I customized, applied new design and overrride tutor lms templates as well as theme templates and add metaboxes and settings options on dashboard.</p>
+        <a href="https://www.lifespringint.com/courses/">View</a>
+      </td>
+      <td>
+        <h3>Stamped.io</h3>
+        <p>It is Static site, I developed it with <b>Bootstrap UI</b>, <b>SCSS</b>, <b>JavaScript</b>, <b>jQuery</b> etc. </p>
+        <a href="https://stamped.io/">View</a>
+      </td>
+    </tr>
+    <tr>
+      
+    </tr>
+  </tbody>
 </table>
-<!--END_SECTION:waka-->
-
-## Social Links
-
-<a href="https://twitter.com/tawhiduldev">
+<!--END_SECTION:waka--> ## Social Links <a href="https://twitter.com/tawhiduldev">
   <img align="left" alt="Tawhid | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/">
