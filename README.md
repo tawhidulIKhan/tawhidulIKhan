@@ -29,7 +29,7 @@ hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer.E
         <td>
       <div style="display:flex; flex-direction: column;">
       <img src="./images/virtunus.png" alt="Tips by Virtunus" />
-      <h3>Tips By Virtunus</h3>
+      <h3>Tips By Virtunus(Next)</h3>
 <p> It's single page react application with SSR feature, it is a hybrid app, backend developed with laravel, connected to web app with REST API. </p>
 <p>I used technologies in web application are <b>Next.JS</b>, <b>TypeScript</b>, Service based Frontend Architechture, <b>SCSS</b>, <b>Ant Design UI Library</b>, modular scss, and many more modern technique.
 </p>
@@ -38,8 +38,8 @@ hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer.E
 </td>
  <td>
       <div style="display:flex; flex-direction: column;">
-      <img src="./images/virtunus.png" alt="Tips by Virtunus" />
-      <h3>Virtunus Auth Account App</h3>
+      <img src="./images/auth.png" alt="Auth" />
+      <h3>Virtunus Auth Account App(React)</h3>
 <p> This is user account app which is connected with many other applications like, built with React JS, TypeScript, Redux etc.
 </p>
 <a href="https://accounts.virtunus.com/" target="_blank">View</a>
@@ -48,7 +48,7 @@ hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer.E
 
  <td>
       <div style="display:flex; flex-direction: column;">
-      <img src="./images/virtunus.png" alt="Tips by Virtunus" />
+      <img src="./images/heal.png" alt="Heal" />
       <h3>Heal Single Page App (React)</h3>
 <p> This is user account app which is connected with many other applications like, built with React JS, TypeScript, Redux etc.
 </p>
@@ -60,7 +60,8 @@ hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer.E
       <tr>
        <td style="display:flex; flex-direction: column">
 <div style="display:flex; flex-direction: column;">
-      <h3>Loaneo</h3>
+      <h3>Loaneo (React)</h3>
+      <img src="./images/loaneo.png" alt="Loaneo" />
 <p> It's single page react application</p>
 <p>I used technologies in web application are <b>React.JS</b>, <b>JavaScript</b>, <b>SCSS</b>, <b>Ant Design UI Library</b>.
 </p>
