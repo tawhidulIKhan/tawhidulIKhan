@@ -86,6 +86,7 @@ hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer.E
         <a href="https://enzaime.com/symptom-checker">View</a>
       </td>  
       <td>
+          <img src="./images/bd-phone.png" alt="BD Phone" />
         <h3>BD phone validation npm package</h3>
         <p>An npm package which checks whether the given number is valid Bangladeshi contact number or not as well as retun mobile operator name as JSON response. Written in JavaScript.</p>
         <a href="https://www.npmjs.com/package/is-valid-bd-phone">View</a>
@@ -108,9 +109,6 @@ hi, i'm Tawhidul Islam Khan, a passionate self-taught full stack web developer.E
         <p>It is Static site, I developed it with <b>Bootstrap UI</b>, <b>SCSS</b>, <b>JavaScript</b>, <b>jQuery</b> etc. </p>
         <a href="https://stamped.io/">View</a>
       </td>
-    </tr>
-    <tr>
-      
     </tr>
   </tbody>
 </table>
